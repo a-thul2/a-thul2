@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there! 👋 I'm Athul
 💼 I'm currently working on Enterprise backend modernization at UST for cloud migration<br><br>🛠️ I'm looking to collaborate on AI/ML products, agentic AI systems, GenAI chatbots, computer vision, and full-stack web apps<br><br>🌱I'm currently learning Docker/AWS deployment, and RAG workflows<br><br>🗲 Fun fact - I built an AI agent that acts as my interactive resume – ask it anything about my projects! 🚀
 
 
